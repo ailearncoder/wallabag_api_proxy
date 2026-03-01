@@ -1,4 +1,7 @@
 """API 路由和控制器"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 from typing import Dict, Any
 
 from fastapi import APIRouter, HTTPException, status

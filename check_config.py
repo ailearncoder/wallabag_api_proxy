@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """配置检查脚本"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 import os
 from config import settings
 

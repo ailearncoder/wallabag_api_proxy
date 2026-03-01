@@ -1,4 +1,7 @@
 """工具函数模块"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 import json
 import logging
 from typing import Any, Dict, Optional

@@ -1,4 +1,7 @@
-"""Wallabag API 客户端"""
+"""Wallabag API客户端"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 import urllib.parse
 from typing import Dict, Any, Optional
 

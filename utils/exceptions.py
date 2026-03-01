@@ -1,4 +1,7 @@
 """异常处理模块"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 from typing import Dict, Any
 from fastapi import HTTPException, Request
 from fastapi.responses import JSONResponse

@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """测试脚本"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 import asyncio
 import sys
 from pathlib import Path

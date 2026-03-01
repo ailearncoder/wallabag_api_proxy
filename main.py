@@ -1,4 +1,7 @@
 """FastAPI 主应用"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 import uvicorn
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware

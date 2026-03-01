@@ -1,4 +1,7 @@
 """配置管理模块"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 import os
 from typing import Optional
 

@@ -1,4 +1,7 @@
-"""认证模块 - 处理 OAuth2 认证和令牌管理"""
+"""认证模块 - 处理 OAuth2认证和令牌管理"""
+# Copyright (c) 2026 ailearncoder8@gmail.com
+# MIT License
+
 import json
 import time
 from typing import Dict, Optional
